@@ -4,6 +4,10 @@
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Name?");
+            string name = Console.ReadLine();
+            Console.WriteLine(name);
+            Console.WriteLine("Hello World"); 
             // Enter your code where there is a prompt or to complete a task
             // Commit your changes and push to github
             // Use the test data if given
