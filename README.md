@@ -15,7 +15,7 @@ namespace HowToUseGitHubClassroom
             // If no test data is given, screenshot with your own test data
             // Open GitHub.com and go to your program repository
             // Add a README
-                        // Paste the evidence of your program running
+            // Paste the evidence of your program running
             // repeat for other tests if needed
             // Commit changes
             // Practice task
@@ -27,4 +27,7 @@ namespace HowToUseGitHubClassroom
         }
     }
 }
+<img width="88" alt="image" src="https://github.com/user-attachments/assets/3e05c32a-576c-40dc-b43b-a409def38dac" />
+
 There should be spaces
+![Screenshot 2025-01-19 165135](https://github.com/user-attachments/assets/971ff833-2aca-43e0-b6bd-3af2974def11)
